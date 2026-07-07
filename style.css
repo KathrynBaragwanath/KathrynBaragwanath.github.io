@@ -74,6 +74,12 @@ nav a.active {
 
 main { padding-bottom: 30px; }
 
+main p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
 h1 {
   font-family: "Lora", Georgia, serif;
   font-size: 30px;
